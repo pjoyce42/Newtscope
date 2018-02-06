@@ -1,6 +1,12 @@
 stepper motor collimater
 wireless (bt) stepper motor controller
-10-32 or finer
+   NodeMCU (ESP8266) for wireless collimator controller
+10-32 or finer thread for mounting screws for primary cell
 mirror safety tether
 replaceable mirror brackets
 fiberglass ball with screw in mounts
+20 gauge "hammered dulcimer" wire for the wire spider.
+Use large angles to allow lower string tension
+1/2" baltic birch for the ring
+Tensegrity strut concept.
+Design upper ring to fit into the ball for transport.
