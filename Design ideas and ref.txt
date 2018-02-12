@@ -5,13 +5,10 @@ wireless (bt) stepper motor controller
 mirror safety tether
 replaceable mirror brackets
 fiberglass ball with screw in mounts
-<<<<<<< HEAD
 6in mirror f8 ratio
 default telescope from stellafane telescope designer
-=======
 20 gauge "hammered dulcimer" wire for the wire spider.
 Use large angles to allow lower string tension
 1/2" baltic birch for the ring
 Tensegrity strut concept.
-Design upper ring to fit into the ball for transport.
->>>>>>> cc045f1f7b260fa69623c53dc6aa3153a34cb792
+Design upper ring to fit onto the ball for transport.
