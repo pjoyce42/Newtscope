@@ -4,3 +4,5 @@ wireless (bt) stepper motor controller
 mirror safety tether
 replaceable mirror brackets
 fiberglass ball with screw in mounts
+6in mirror f8 ratio
+default telescope from stellafane telescope designer
