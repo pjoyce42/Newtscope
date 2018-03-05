@@ -14,3 +14,12 @@ Tensegrity strut concept.
 Design upper ring to fit onto the ball for transport.
 penny rolls for counter weight
 
+Split-Pupil finder
+   use retroreflective tape or glow in the dark for the arrow
+   
+Laser cut wood rings
+3D printed clamp for mounting the lower ring to the ball
+Trim the ball diameter on the lathe if possible, drill press if not possible.
+cut hole in the ball side (same side as eyepiece) to mount cooling fan. 3D print fan cage to match ball diameter
+
+Fabric hammock might be good, light mount. Will need to experiment with friction of various fabrics.
