@@ -23,3 +23,7 @@ Trim the ball diameter on the lathe if possible, drill press if not possible.
 cut hole in the ball side (same side as eyepiece) to mount cooling fan. 3D print fan cage to match ball diameter
 
 Fabric hammock might be good, light mount. Will need to experiment with friction of various fabrics.
+
+Astroscan go-to mount article: http://users.skynet.be/alphonse/skytel.htm
+
+12" dlsr tracking ball mount
